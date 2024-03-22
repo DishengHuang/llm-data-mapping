@@ -1,3 +1,3 @@
 # llm-data-mapping
 
-This repository is about how to use large language model to do the data mapping (data transformation and standardization).
+This repository is about explorying the possibility of using Large Language Model to do the SDTM data mapping.
